@@ -1,0 +1,5 @@
+pub const MIN_WORD_LENGTH: usize = 5;
+pub const MAX_WORD_LENTH: usize = 24;
+
+pub const MIN_NUMBER_OF_ATTEMPTS: u
+    
