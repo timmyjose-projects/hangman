@@ -27,6 +27,6 @@ $ cargo build
 $ cargo run [max-word-length = 24] [number-of-attempts = 10]
 ```
 
-Alternatively, the executable located in target/debug/build can be used in the manner shown in the `Usage` section.
+Alternatively, the executable located in target/debug/ can be used in the manner shown in the `Usage` section.
 
 
