@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/timmyjose/hangman.svg?branch=master)](https://travis-ci.org/timmyjose/hangman)
+
 A simple hangman game in Rust.
 
 The game will try and detect if the OS is a Unix-like OS and try to see if `/usr/share/dict/words` can be used. If not, the bundled file, `words.txt` will be used instead.
