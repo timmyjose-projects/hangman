@@ -2,7 +2,7 @@ language: rust
 rust:
     - stable
     - nightly
-    - default
+    - beta 
 matrix:
     allow_failures:
         - rust: nightly
