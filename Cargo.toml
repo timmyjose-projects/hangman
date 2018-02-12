@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["Timmy Jose <zoltan.jose@gmail.com>"]
 description = "A simple implementation of the classic hangman game."
 homepage = "https://github.com/timmyjose/hangman"
-keywords = ["hangman", "hang man", "game"]
+keywords = ["hangman", "console", "game"]
 license = "MIT"
 
 [dependencies]
