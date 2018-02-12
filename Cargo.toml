@@ -1,8 +1,12 @@
 [package]
 name = "hangman"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Timmy Jose <zoltan.jose@gmail.com>"]
+description = "A simple implementation of the classic hangman game."
+homepage = "https://github.com/timmyjose/hangman"
+keywords = ["hangman", "hang man", "game"]
+license = "MIT"
 
 [dependencies]
 
-rand = "*"
+rand = "0.4.2"
