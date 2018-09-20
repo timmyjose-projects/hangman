@@ -1,9 +1,10 @@
 language: rust
 rust:
-    - beta 
+    - nightly 
 matrix:
     allow_failures:
-        - rust: nightly
+        - rust: stable
+        - rust: beta
 sudo: false
 dist: trusty
 
