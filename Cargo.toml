@@ -6,6 +6,7 @@ description = "A simple implementation of the classic hangman game."
 homepage = "https://github.com/timmyjose/hangman"
 keywords = ["hangman", "console", "game"]
 license = "MIT"
+edition = "2018"
 
 [dependencies]
 
